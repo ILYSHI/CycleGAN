@@ -4,6 +4,6 @@
 
 ## Источники
 
-- [Оригинальная реализация(https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
-- [Упрощенный вариант CycleGAN для MNIST-SVHN](transition(https://github.com/yunjey/mnist-svhn-transfer)
+- [Оригинальная реализация](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [Упрощенный вариант CycleGAN для MNIST-SVHN](https://github.com/yunjey/mnist-svhn-transfer)
 
